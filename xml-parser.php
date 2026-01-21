@@ -12,7 +12,7 @@ if (!$xml) {
     die('Failed to parse XML.');
 }
 
-// Decide output format: ?format=json or ?format=html
+// Decide output format
 $format = $_GET['format'] ?? 'json';
 
 if ($format === 'html') {
