@@ -1,5 +1,3 @@
-# xml-parser
-
 # XML Parser (PHP)
 
 A simple PHP script that reads XML data and converts it into JSON or HTML output.
